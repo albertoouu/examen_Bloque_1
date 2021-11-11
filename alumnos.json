@@ -1,0 +1,52 @@
+{
+  "integrantes": [
+    {
+      "nombre": "Jazo",
+      "apellido": "Ramirez",
+      "edad": "34",
+      "cumpleaños": "15 de Mayo"
+    },
+    {
+      "nombre": "David",
+      "apellido": "Hernandez",
+      "edad": "29",
+      "cumpleaños": "16 de Febrero"
+    },
+    {
+      "nombre": "Monica",
+      "apellido": "Macal",
+      "edad": "29",
+      "cumpleaños": "23 de Marzo"
+    },
+    {
+      "nombre": "Alberto",
+      "apellido": "Gutierrez",
+      "edad": "30",
+      "cumpleaños": "13 de Julio"
+    },
+    {
+      "nombre": "Amanda",
+      "apellido": "Ramirez",
+      "edad": "17",
+      "cumpleaños": "25 de Noviembre"
+    },
+    {
+      "nombre": "Oscar",
+      "apellido": "Ruiz",
+      "edad": "30",
+      "cumpleaños": "28 de Diciembre"
+    },
+    {
+      "nombre": "Fernanda",
+      "apellido": "Fajardo",
+      "edad": "27",
+      "cumpleaños": "2 de Enero"
+    },
+    {
+      "nombre": "Vania",
+      "apellido": "Ramirez",
+      "edad": "30",
+      "cumpleaños": "10 de Junio"
+    }
+  ]
+}
