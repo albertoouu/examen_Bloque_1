@@ -18,7 +18,7 @@ let pintaDatos = (datos) => {
   let bootcampMembers = document.getElementById("BootcampMembers");
   let cumpleaños = document.getElementById("cumpleaños");
   for (int of datos) {
-    bootcampMembers.innerHTML += `Nombre: ${int.nombre}.  Apellido: ${int.apellido}.  Edad: ${int.edad}.  Cumpleaños: ${int.cumpleaños}.<br>`;
+    bootcampMembers.innerHTML += `Nombre: ${int.nombre}.  Apellido: ${int.apellido}.<br>`;
     cumpleaños.innerHTML += `${int.nombre} cumpleaños: ${int.cumpleaños}<br>`;
   }
 };
